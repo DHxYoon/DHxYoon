@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "mcp__sequential-thinking__sequentialthinking",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.viberank.app)",
+      "Bash(cat:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(node crawl_subscribers.js:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(dir:*)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:kr.noxinfluencer.com)",
+      "Bash(node search_channels.js:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
